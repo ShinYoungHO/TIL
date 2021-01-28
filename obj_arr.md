@@ -39,3 +39,6 @@ for(let keys in obj1){
 }
 ```
 ***
+* //boy에 person 의 son key가 갖고있는 value인 {age:9}를 복사 (객체 안의 객체를 복사할땐 주소를 가져오나? 새로 생성하나?)
+* //새로 생성한다고 가정하면, boy의 주소값을 가지는 heap메모리의 객체가 {age:20}으로 바뀌고, son.age는 9 그대로 일 것이다.
+* //Koans runner를 돌려도 debugger를 돌려도 person.son.age의 값은 20. 객체안의 객체를 복사해도 주소를 가져오는 듯 하다.

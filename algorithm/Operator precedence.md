@@ -108,6 +108,6 @@ function n2(num){
 * 코드 길이 또한 줄일 수 있다.
 ***
 
-찾아볼 점 : 스택메모리,메모리힙,스택오버플로우,[삼항연산자](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Conditional_Operator),[리팩토링](https://code.visualstudio.com/docs/editor/refactoring),스코프,호이스팅,this,prototype,closure&recursion;
+
 
 

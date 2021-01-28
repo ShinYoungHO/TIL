@@ -1,0 +1,2 @@
+FactoryFunction & Object.create() methode
+===
