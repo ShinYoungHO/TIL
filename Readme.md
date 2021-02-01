@@ -9,6 +9,14 @@ Today I Learned
 ### 01-25 [논리연산자](https://github.com/ShinYoungHO/TIL/blob/master/algorithm/Operator%20precedence.md)
 ### 01-26 [(원시/참조)자료형, 스코프, window객체, 클로저...](https://github.com/ShinYoungHO/TIL/blob/master/obj_arr.md)//[Prototype](https://medium.com/@bluesh55/javascript-prototype-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f8e67c286b67)//[삼항연산자](https://github.com/ShinYoungHO/TIL/blob/master/algorithm/operator.md)//[for in array](https://github.com/ShinYoungHO/TIL/blob/master/obj_arr.md)
 ### 01-27 [this, obj, spread](https://github.com/ShinYoungHO/TIL/blob/master/this_obj_spread.md)
+### 01-28 Koans
+### 01-29 HTML-CSS 목업
+### 01-30 [SCSS](https://github.com/ShinYoungHO/TIL/blob/master/scss/SCSS_BEM.md)
+### 01-31 twittler re-build... flexbox.....
+### 02-02 [고차함수 (reduce, filter, map): 예제 복습 및 키워드]()
+
+
+
 ***
 나중에 항목별로 정리할 필요가 있겠다...<br>
 공부할건 쌓여만 간다<br>
