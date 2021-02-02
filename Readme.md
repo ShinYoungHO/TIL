@@ -13,8 +13,8 @@ Today I Learned
 ### 01-29 HTML-CSS 목업
 ### 01-30 [SCSS](https://github.com/ShinYoungHO/TIL/blob/master/scss/SCSS_BEM.md)
 ### 01-31 twittler re-build... flexbox.....
-### 02-02 [고차함수 (reduce, filter, map): 예제 복습 및 키워드]()
-
+### 02-02 [고차함수 (reduce, filter, map): 예제 복습 및 키워드](https://github.com/ShinYoungHO/TIL/blob/master/algorithm/higherOrderFunc/forEach_%20find_%20sort_%20some_%20every.md)
+### 02-03 AlgorithmBasic,[AlgorithmStudy](),Calculator
 
 
 ***
