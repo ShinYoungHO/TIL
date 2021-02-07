@@ -7,6 +7,8 @@ Keyword
 4. HTML templating
 5. templateTag
 6. removeChild() 
+7. $0.dataset.user
+
 
 ***
 ***

@@ -14,7 +14,9 @@ Today I Learned
 ### 01-30 [SCSS](https://github.com/ShinYoungHO/TIL/blob/master/scss/SCSS_BEM.md)
 ### 01-31 twittler re-build... flexbox.....
 ### 02-02 [고차함수 (reduce, filter, map): 예제 복습 및 키워드](https://github.com/ShinYoungHO/TIL/blob/master/algorithm/higherOrderFunc/forEach_%20find_%20sort_%20some_%20every.md)
-### 02-03 AlgorithmBasic,[AlgorithmStudy](),DOM
+### 02-03 AlgorithmBasic,[AlgorithmStudy](),[DOM](https://github.com/ShinYoungHO/TIL/blob/master/DOM/DOM.md)
+### 02-04~06 Twittler,ValidationCheck 구현 및 리팩토링;
+### 02-07 Algorithm_study & twettler 부가기능 추가.
 
 
 

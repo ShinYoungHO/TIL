@@ -1,4 +1,4 @@
-DOM
+DOM  // [my_DOMoptimization link](https://github.com/ShinYoungHO/TIL/blob/master/DOM/DOM_Optimization.md)
 ===
 
 ###DOM이란?
