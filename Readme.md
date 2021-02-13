@@ -17,7 +17,11 @@ Today I Learned
 ### 02-03 AlgorithmBasic,[AlgorithmStudy](),[DOM](https://github.com/ShinYoungHO/TIL/blob/master/DOM/DOM.md)
 ### 02-04~06 Twittler,ValidationCheck 구현 및 리팩토링 + 추가 기능;
 ### 02-07 Algorithm_study & twettler 부가기능(좋아요 숫자 및 클릭시 버튼 색 전환 & 다시누르면 초기화) 추가.
-### 02-09 내장함수 구현 및 복습, 
+### 02-09 내장함수 구현 및 복습
+### 02-10 재귀예제, rest...
+### 02-11 Algorithm_programmers
+### 02-12 Algorithm_Baekjoon_node.js Bsc // MotionGraphic Bsc
+### 02-13 Algorithm_programmers & Self short coding challenge 
 
 
 
