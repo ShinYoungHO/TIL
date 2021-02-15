@@ -22,6 +22,9 @@ Today I Learned
 ### 02-11 Algorithm_programmers
 ### 02-12 Algorithm_Baekjoon_node.js Bsc // MotionGraphic Bsc
 ### 02-13 Algorithm_programmers & Self short coding challenge 
+### 02-14 Algorithm_programmers 연습문제 finished.
+### 02-15 JSON구현, DOM 재귀. 재귀함수 스터디(재귀, 꼬리재귀, 하노이탑)
+, 조합)
 
 
 
@@ -31,4 +34,4 @@ Today I Learned
 공부할건 쌓여만 간다<br>
 
 찾아볼 점 : 스택메모리,메모리힙,스택오버플로우,[삼항연산자](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Conditional_Operator),[리팩토링](https://code.visualstudio.com/docs/editor/refactoring),스코프,**호이스팅,excusion,context?**,this-execution context,prototype,closure&recursion, of 연산자, 스코프체이닝,  (bigint, symbol, null )데이터 타입,
-비구조화할당, it 함수, class keyword(객체지향), git history extension,this, new, [얕은복사 깊은 복사1](https://scotch.io/bar-talk/copying-objects-in-javascript),[얕은복사 깊은 복사2](https://medium.com/watcha/깊은-복사와-얕은-복사에-대한-심도있는-이야기-2f7d797e008a), TDZ, 데이터가 런타임 중 동적으로 변하기때문에, look-up table, memoization/Number.MIN_SAFE_INTEGER
+비구조화할당, it 함수, class keyword(객체지향), git history extension,this, new, [얕은복사 깊은 복사1](https://scotch.io/bar-talk/copying-objects-in-javascript),[얕은복사 깊은 복사2](https://medium.com/watcha/깊은-복사와-얕은-복사에-대한-심도있는-이야기-2f7d797e008a), TDZ, 데이터가 런타임 중 동적으로 변하기때문에, look-up table, memoization/Number.MIN_SAFE_INTEGER, 정규표현식.
